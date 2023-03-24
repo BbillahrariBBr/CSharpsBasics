@@ -39,12 +39,20 @@ namespace CSharpFundamental
             //console.writeline(firstname.indexof('k'));
 
             //enum
-            public enum MailDetails
-        {
-            regulaMail = 1, regulaMail2 = 2,  regularAirMail= 15,
-        }
+            //    public enum MailDetails
+            //{
+            //    regulaMail = 1, regulaMail2 = 2,  regularAirMail= 15,
+            //}
             //Console.ReadLine();
-            
+            //switch
+
+            var season = Season.Summer;
+            switch(season) { 
+                case Season.Summer: Console.WriteLine();
+                    break;
+
+            }
+
 
         }
     }
