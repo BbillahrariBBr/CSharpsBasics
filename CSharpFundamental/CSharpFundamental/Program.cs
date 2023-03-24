@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpFundamental.Math;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,9 @@ namespace CSharpFundamental
             person.firstName = "Baki";
             person.lastName = "Billah";
             person.Introduce();
+
+            var result = Calculator.Add(13, 20);
+            Console.WriteLine(result);
             Console.ReadLine();
         }
     }
