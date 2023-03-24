@@ -1,0 +1,8 @@
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\bin\Debug\PrimitivesTypes.exe.config
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\bin\Debug\PrimitivesTypes.exe
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\bin\Debug\PrimitivesTypes.pdb
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\obj\Debug\PrimitivesTypes.csproj.AssemblyReference.cache
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\obj\Debug\PrimitivesTypes.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\obj\Debug\PrimitivesTypes.csproj.CoreCompileInputs.cache
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\obj\Debug\PrimitivesTypes.exe
+E:\CSharp\PrimitivesTypes\PrimitivesTypes\obj\Debug\PrimitivesTypes.pdb

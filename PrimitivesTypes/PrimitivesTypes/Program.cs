@@ -15,6 +15,18 @@ namespace PrimitivesTypes
             float floatVar = 100.2f;
             char  charVar = 'a';
             bool boolVar = false;
+
+            var firstName = "Baki";
+            var lastName = "Billah";
+
+            var fullName = firstName + lastName;
+            var firstNumber = 5;
+            var secondNumber = 10;
+            var sum = firstNumber+secondNumber;
+            Console.WriteLine(sum);
+
+            Console.WriteLine(fullName);
+            Console.ReadLine();
         }
     }
 }
