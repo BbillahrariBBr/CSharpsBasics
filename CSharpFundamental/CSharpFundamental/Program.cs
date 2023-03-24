@@ -46,12 +46,20 @@ namespace CSharpFundamental
             //Console.ReadLine();
             //switch
 
-            var season = Season.Summer;
-            switch(season) { 
-                case Season.Summer: Console.WriteLine();
-                    break;
+            //var season = Season.Summer;
+            //switch(season) { 
+            //    case Season.Summer: Console.WriteLine();
+            //        break;
 
+            //}
+            //for, while, do while, foreach
+
+            int[] number = { 1, 2, 3 };
+            foreach (int i in number)
+            {
+                Console.WriteLine(i);
             }
+            Console.ReadLine();
 
 
         }
