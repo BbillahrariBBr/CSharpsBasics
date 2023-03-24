@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -31,12 +32,19 @@ namespace CSharpFundamental
 
             // array
             // string 
-            string firstName = "Baki";
-            string lastName = "Billah";
-            string fullName = string.Concat(firstName, lastName);
-            Console.WriteLine(fullName);
-            Console.WriteLine(firstName.IndexOf('k'));
-            Console.ReadLine();
+            //string firstname = "baki";
+            //string lastname = "billah";
+            //string fullname = string.concat(firstname, lastname);
+            //console.writeline(fullname);
+            //console.writeline(firstname.indexof('k'));
+
+            //enum
+            public enum MailDetails
+        {
+            regulaMail = 1, regulaMail2 = 2,  regularAirMail= 15,
+        }
+            //Console.ReadLine();
+            
 
         }
     }
