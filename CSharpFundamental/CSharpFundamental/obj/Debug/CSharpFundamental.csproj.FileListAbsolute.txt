@@ -1,0 +1,8 @@
+E:\CSharp\CSharpFundamental\CSharpFundamental\bin\Debug\CSharpFundamental.exe.config
+E:\CSharp\CSharpFundamental\CSharpFundamental\bin\Debug\CSharpFundamental.exe
+E:\CSharp\CSharpFundamental\CSharpFundamental\bin\Debug\CSharpFundamental.pdb
+E:\CSharp\CSharpFundamental\CSharpFundamental\obj\Debug\CSharpFundamental.csproj.AssemblyReference.cache
+E:\CSharp\CSharpFundamental\CSharpFundamental\obj\Debug\CSharpFundamental.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\CSharpFundamental\CSharpFundamental\obj\Debug\CSharpFundamental.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharpFundamental\CSharpFundamental\obj\Debug\CSharpFundamental.exe
+E:\CSharp\CSharpFundamental\CSharpFundamental\obj\Debug\CSharpFundamental.pdb
