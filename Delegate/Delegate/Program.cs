@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace Delegate
 {
     //delegate
-    // defining delegate
-    public delegate int AddDelegate(int x, int y);
+    //define 
+    public delegate void RectDelegate(double width, double height);
 
 
     internal class Program
@@ -22,11 +22,12 @@ namespace Delegate
         }
         static void Main(string[] args)
         {
-            //delegate intantiate 2nd step
-            AddDelegate addNums = new AddDelegate(AddNums);
-            var res = addNums(10, 470);
-            Console.WriteLine(res);
 
+            Rectangle rectangle = new Rectangle();
+            // delegate intantiate
+            RectDelegate rectDelegate = new RectDelegate(rectangle.GetArea);
+            rectDelegate += rectangle.GetPerimeter;
+            rectDelegate.Invoke(17, 40);
         }
     }
 }
