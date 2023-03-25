@@ -54,13 +54,24 @@ namespace CSharpFundamental
             //}
             //for, while, do while, foreach
 
-            int[] number = { 1, 2, 3 };
-            foreach (int i in number)
+            //int[] number = { 1, 2, 3 };
+            //foreach (int i in number)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            //Console.ReadLine();
+
+            // list
+            List<string> names = new List<string>();
+            names.Add("John");
+            names.Add("kali");
+            names.Add("doe");
+
+            for (int i = 0; i < names.Count; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(names[i]);
             }
             Console.ReadLine();
-
 
         }
     }
