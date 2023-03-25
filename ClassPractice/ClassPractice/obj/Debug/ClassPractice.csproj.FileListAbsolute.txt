@@ -1,0 +1,8 @@
+E:\CSharp\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+E:\CSharp\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+E:\CSharp\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+E:\CSharp\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.AssemblyReference.cache
+E:\CSharp\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csproj.CoreCompileInputs.cache
+E:\CSharp\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+E:\CSharp\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
