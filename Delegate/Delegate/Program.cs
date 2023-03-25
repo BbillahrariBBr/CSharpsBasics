@@ -27,6 +27,7 @@ namespace Delegate
             // delegate intantiate
             RectDelegate rectDelegate = new RectDelegate(rectangle.GetArea);
             rectDelegate += rectangle.GetPerimeter;
+            
             rectDelegate.Invoke(17, 40);
         }
     }

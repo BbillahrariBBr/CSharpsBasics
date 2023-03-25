@@ -1,0 +1,8 @@
+E:\CSharp\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+E:\CSharp\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+E:\CSharp\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+E:\CSharp\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
+E:\CSharp\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+E:\CSharp\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+E:\CSharp\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
