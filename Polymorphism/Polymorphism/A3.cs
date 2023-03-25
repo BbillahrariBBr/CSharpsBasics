@@ -13,9 +13,9 @@ namespace Polymorphism
             
         }
 
-        public override void Repair()
-        {
-            Console.WriteLine("The {0} car was repaired", Model);
-        }
+        //public override void Repair()
+        //{
+        //    Console.WriteLine("The {0} car was repaired", Model);
+        //}
     }
 }
