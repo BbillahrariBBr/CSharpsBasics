@@ -13,7 +13,7 @@ namespace Polymorphism
             var cars = new List<Car>
             {
                 new BMW(200,"Black", "A3"),
-            new Audics(100, "Red", "z3"),
+                new Audics(100, "Red", "z3"),
             };
 
             foreach (var car in cars)
@@ -21,6 +21,11 @@ namespace Polymorphism
                 car.ShowDetails();
                 car.Repair();
             }
+
+            A3 a3 = new A3(260, "Grey", "a3001");
+            a3.ShowDetails();
+            a3.Repair();
+            Console.ReadKey();
         }
     }
 }

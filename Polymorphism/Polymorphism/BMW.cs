@@ -17,9 +17,9 @@ namespace Polymorphism
         }
         public override void ShowDetails()
         {
-            Console.WriteLine("Brand " + brand + " HP " + HP + " Color " + Color);
+            Console.WriteLine("Brand " + brand + " HP " + HP + " Color " + Color + " Model " + Model);
         }
-        public override void Repair()
+        public sealed override void Repair()
         {
             Console.WriteLine("The {0} {1} car was repaired",brand,Model);
         }
