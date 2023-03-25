@@ -8,27 +8,33 @@ namespace ClassPractice
 {
     class Animal
     {
-        public string name = "Tiger";
-        public int age = 6;
-        public string voice = "Ghew";
+        public string name ;
+        public int age;
+        public string voice;
+        public static int animalCount = 0;
 
         public void printDetails()
         {
             Console.WriteLine("Name " + name + " Age " + age + " Voice " + voice);
+        }
+        public Animal(string _name, int _age, string _voice)
+        {
+            name = _name;
+            age = _age;
+            voice = _voice;
+
+            animalCount++;
         }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Animal dog = new Animal();
+            Animal dog = new Animal("Tiger",7,"Ghew");
             dog.printDetails();
-            Animal cat = new Animal();
-            cat.name = "Tom";
-            cat.age = 5;
-            cat.voice = "Mew";
+            Animal cat = new Animal("Tom", 4, "Mew");
             cat.printDetails();
-
+            Console.WriteLine(Animal.animalCount);
             Console.ReadLine();
         }
     }
