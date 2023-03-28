@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/CSharp/test/BlazorServerAppDemo/Pages/ContactsComponents/ContactComponents1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNDb21wb25lbnRzXENvbnRhY3RDb21wb25lbnRzMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CSharp/test/BlazorServerAppDemo/Pages/ContactsComponents/MyTextBox.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNDb21wb25lbnRzXE15VGV4dEJveC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/CSharp/test/BlazorServerAppDemo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

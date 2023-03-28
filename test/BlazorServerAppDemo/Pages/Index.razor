@@ -1,12 +1,43 @@
 ﻿@page "/"
+@using BlazorServerAppDemo.Pages.ContactsComponents
 
-<h3> Hello @GetUserName()</h3>
+@foreach(var contact in contacts)
+{
+   <ContactComponents1 CurrentContact="contact"></ContactComponents1>
+}
+<br />
 
+<MyTextBox Placeholder="Sample Placeholder"></MyTextBox>
 @code{
-    private string userName = "Baki";
 
-    private string GetUserName()
+    private List<Contact> contacts;
+
+    protected override  void OnInitialized()
     {
-        return userName + "billah";
+        base.OnInitialized();
+
+        contacts = new List<Contact>
+        {
+            new Contact
+            {
+                FirstName = "Jhon",
+                LastName = "Thomas",
+                Email = "jhon.thomas@gmail.comn"
+            },
+            new Contact
+            {
+                FirstName = "Peter",
+                LastName = "Bob",
+                Email = "peter.bob@gmail.comn"
+            },
+
+            new Contact
+            {
+                FirstName = "George",
+                LastName = "David",
+                Email = "david.george@gmail.comn"
+            },
+
+        };
     }
 }

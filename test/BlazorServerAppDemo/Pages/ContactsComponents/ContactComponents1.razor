@@ -1,0 +1,10 @@
+﻿<p>
+    <b>Name: </b> <span> @CurrentContact.FirstName @CurrentContact.LastName</span> <br />
+    <b>Email: </b> <i>@CurrentContact.Email</i>
+</p>
+
+@code
+{
+    [Parameter]
+    public Contact CurrentContact { get; set; }
+}
