@@ -1,0 +1,8 @@
+E:\CSharp\test\DynamicPolymorphisom\bin\Debug\DynamicPolymorphisom.exe.config
+E:\CSharp\test\DynamicPolymorphisom\bin\Debug\DynamicPolymorphisom.exe
+E:\CSharp\test\DynamicPolymorphisom\bin\Debug\DynamicPolymorphisom.pdb
+E:\CSharp\test\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.csproj.AssemblyReference.cache
+E:\CSharp\test\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\test\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.csproj.CoreCompileInputs.cache
+E:\CSharp\test\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.exe
+E:\CSharp\test\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.pdb
