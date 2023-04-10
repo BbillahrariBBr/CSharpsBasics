@@ -1,0 +1,8 @@
+E:\CSharp\test\Array\bin\Debug\Array.exe.config
+E:\CSharp\test\Array\bin\Debug\Array.exe
+E:\CSharp\test\Array\bin\Debug\Array.pdb
+E:\CSharp\test\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+E:\CSharp\test\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\test\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\CSharp\test\Array\obj\Debug\Array.exe
+E:\CSharp\test\Array\obj\Debug\Array.pdb
