@@ -31,5 +31,11 @@ namespace VPApp1
         {
             lblHello.Text = "Text has been canceld";
         }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            FrmLogin loginForm = new FrmLogin();
+            loginForm.ShowDialog();
+        }
     }
 }

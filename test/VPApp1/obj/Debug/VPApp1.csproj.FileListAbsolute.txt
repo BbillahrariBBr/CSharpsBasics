@@ -9,3 +9,4 @@ E:\CSharp\test\VPApp1\obj\Debug\VPApp1.csproj.GenerateResource.cache
 E:\CSharp\test\VPApp1\obj\Debug\VPApp1.csproj.CoreCompileInputs.cache
 E:\CSharp\test\VPApp1\obj\Debug\VPApp1.exe
 E:\CSharp\test\VPApp1\obj\Debug\VPApp1.pdb
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.FrmLogin.resources
