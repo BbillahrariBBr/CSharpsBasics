@@ -1,0 +1,11 @@
+E:\CSharp\test\VPApp1\bin\Debug\VPApp1.exe.config
+E:\CSharp\test\VPApp1\bin\Debug\VPApp1.exe
+E:\CSharp\test\VPApp1\bin\Debug\VPApp1.pdb
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.csproj.AssemblyReference.cache
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.frmHomePage.resources
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.Properties.Resources.resources
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.csproj.GenerateResource.cache
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.csproj.CoreCompileInputs.cache
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.exe
+E:\CSharp\test\VPApp1\obj\Debug\VPApp1.pdb
