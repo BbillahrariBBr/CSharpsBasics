@@ -133,6 +133,7 @@
             this.chbxSms.TabIndex = 0;
             this.chbxSms.Text = "Sms Notification";
             this.chbxSms.UseVisualStyleBackColor = true;
+            this.chbxSms.CheckedChanged += new System.EventHandler(this.chbxSms_CheckedChanged);
             // 
             // chbxReports
             // 
@@ -144,6 +145,7 @@
             this.chbxReports.TabIndex = 1;
             this.chbxReports.Text = "Reports";
             this.chbxReports.UseVisualStyleBackColor = true;
+            this.chbxReports.CheckedChanged += new System.EventHandler(this.chbxReports_CheckedChanged);
             // 
             // chbxTransection
             // 
@@ -155,6 +157,7 @@
             this.chbxTransection.TabIndex = 2;
             this.chbxTransection.Text = "Transection Reports";
             this.chbxTransection.UseVisualStyleBackColor = true;
+            this.chbxTransection.CheckedChanged += new System.EventHandler(this.chbxTransection_CheckedChanged);
             // 
             // lblTransMsg
             // 
@@ -175,6 +178,7 @@
             this.btnSignUp.TabIndex = 8;
             this.btnSignUp.Text = "SignUp";
             this.btnSignUp.UseVisualStyleBackColor = true;
+            this.btnSignUp.Click += new System.EventHandler(this.btnSignUp_Click);
             // 
             // frmSignUp
             // 

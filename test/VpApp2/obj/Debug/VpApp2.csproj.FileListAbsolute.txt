@@ -1,0 +1,12 @@
+E:\CSharp\test\VpApp2\bin\Debug\VpApp2.exe.config
+E:\CSharp\test\VpApp2\bin\Debug\VpApp2.exe
+E:\CSharp\test\VpApp2\bin\Debug\VpApp2.pdb
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.csproj.AssemblyReference.cache
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.frmSignUp.resources
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.Properties.Resources.resources
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.csproj.GenerateResource.cache
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.csproj.CoreCompileInputs.cache
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.exe
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.pdb
+E:\CSharp\test\VpApp2\obj\Debug\VpApp2.Confirmation.resources
