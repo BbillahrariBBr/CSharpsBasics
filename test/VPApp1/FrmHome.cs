@@ -34,8 +34,13 @@ namespace VPApp1
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
+            this.Hide();
             FrmLogin loginForm = new FrmLogin();
             loginForm.ShowDialog();
+            this.Dispose();
+
+ 
+
         }
     }
 }
