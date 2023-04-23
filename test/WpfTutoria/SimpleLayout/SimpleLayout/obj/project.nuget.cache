@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2MpMPZ868Jp4p+BbXp/SlmjOlX6zU8ht9vQYZiHc7d6JFAsaUIjCIYVmN0l5TP/QNtmgTXu6ww20uF3Itr2qzA==",
+  "dgSpecHash": "hVUhZoY5pX4AaItwzIEdUqn7Gq2amvpCbxKPKaz9OoUSCT15QpSGdLZ4xQSC/6eqbziO8zrZH4jyEzC/Mvs/Ig==",
   "success": true,
   "projectFilePath": "E:\\CSharp\\test\\WpfTutoria\\SimpleLayout\\SimpleLayout\\SimpleLayout.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
+  ],
   "logs": []
 }
