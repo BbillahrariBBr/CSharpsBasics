@@ -29,11 +29,12 @@
         <StackPanel Orientation="Vertical"
                     Margin="20">
             <TextBlock Text="Login"
-                       FontSize="25"
+                       Style="{StaticResource LoginTextBlock}"/>
+            <!--FontSize="25"
                        HorizontalAlignment="Center"
                        VerticalAlignment="Top"
                        FontWeight="Bold"
-                       Padding="10"/>
+                       Padding="10"-->
             <!--start body-->
             <Grid VerticalAlignment="Center"
               >
@@ -45,8 +46,7 @@
                 </Grid.RowDefinitions>
                 <TextBlock Grid.Row="0"
                     Text="User Name"
-                           Margin="0,15"
-                           HorizontalAlignment="Left"/>
+                          Style="{StaticResource DefaultTextBlock}"/>
                 <TextBox Grid.Row="1"
                            Padding="0,5"
                            Width="255"
@@ -55,8 +55,7 @@
                            Text="Bakibillah"/>
                 <TextBlock Grid.Row="2"
                            Text="Password"
-                           Margin="0,15"
-                           HorizontalAlignment="Left"/>
+                           Style="{StaticResource DefaultTextBlock}">
                 <PasswordBox Grid.Row="3"
                              Password="bakibillah"
                              Width="255"
@@ -112,13 +111,15 @@
                 </Button.Style>-->
             </Button>
             <TextBlock Text="Not a Member?"
-                       Margin="0,5"
+                       Style="{StaticResource SignUpTextBlock}"/>
+            <!--Margin="0,5"
                        VerticalAlignment="Bottom"
-                       HorizontalAlignment="Center"/>
+                       HorizontalAlignment="Center"-->
             <TextBlock Text="Sign Up"
-                       Margin="0,10"
+                       Style="{StaticResource SignUpTextBlock}"/>
+            <!--Margin="0,10"
                        VerticalAlignment="Bottom"
-                       HorizontalAlignment="Center"/>
+                       HorizontalAlignment="Center"-->
 
         </StackPanel>
         

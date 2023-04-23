@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\App.xaml
-4495605755
+51606904538
 
 61473206186
 1941709816142
-MainWindow.xaml;Styles\BorderStyles.xaml;Styles\ButtonStyles.xaml;Views\LoginView.xaml;
+MainWindow.xaml;Styles\BorderStyles.xaml;Styles\ButtonStyles.xaml;Styles\TextBlockStyles.xaml;Views\LoginView.xaml;
 
 True
 
