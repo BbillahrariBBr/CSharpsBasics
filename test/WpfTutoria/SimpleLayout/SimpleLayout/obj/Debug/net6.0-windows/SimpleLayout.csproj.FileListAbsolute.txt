@@ -60,3 +60,4 @@ E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\bin\Debug\net6.0-windows\Mah
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\Styles\TextBoxStyles.baml
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\SimpleLayout.csproj.CopyComplete
+E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs

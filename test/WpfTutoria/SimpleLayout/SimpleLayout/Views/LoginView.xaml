@@ -4,10 +4,13 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:SimpleLayout.Views" 
-             xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks" xmlns:vm="clr-namespace:SimpleLayout.ViewModels"
              mc:Ignorable="d" 
              Background="AliceBlue"
              d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <vm:UserVM/>
+    </UserControl.DataContext>
 
     <Border x:Name="LoginBorder"
             Style="{StaticResource LoginBorder}">
@@ -49,7 +52,7 @@
                     Text="User Name"
                           Style="{StaticResource DefaultTextBlock}"/>
                 <TextBox Grid.Row="1"
-                         Text="Bakibillah"
+                         Text="{Binding UserName, UpdateSourceTrigger=PropertyChanged}"
                          Style="{StaticResource LoginTextBox}"/>
                 <!--Padding="0,5"
                            Width="255"
@@ -69,8 +72,8 @@
                                                     Height="16"
                                                     Margin="0,2,10,0"
                                                     VerticalAlignment="Center"/>
-                        <PasswordBox Grid.Row="3"
-                             Password="bakibillah"
+                        <TextBox Grid.Row="3"
+                             Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}"
                              Style="{StaticResource PasswordTextBox}"/>
 
                     </StackPanel>
