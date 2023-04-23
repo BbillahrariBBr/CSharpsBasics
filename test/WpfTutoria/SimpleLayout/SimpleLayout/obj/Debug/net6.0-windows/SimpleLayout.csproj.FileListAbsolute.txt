@@ -21,3 +21,6 @@ E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\ref
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\SimpleLayout.pdb
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\SimpleLayout.genruntimeconfig.cache
 E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\ref\SimpleLayout.dll
+E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\Styles\BorderStyles.baml
+E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\App.baml
+E:\CSharp\test\WpfTutoria\SimpleLayout\SimpleLayout\obj\Debug\net6.0-windows\Styles\ButtonStyles.baml

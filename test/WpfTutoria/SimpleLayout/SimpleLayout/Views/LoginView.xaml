@@ -9,20 +9,22 @@
              d:DesignHeight="450" d:DesignWidth="800">
 
     <Border x:Name="LoginBorder"
-            Width="300"
+            Style="{StaticResource LoginBorder}">
+        <!--Width="300"
             Height="400"
             Background="White"
             BorderBrush="Gray"
             BorderThickness="2"
-            CornerRadius="15">
-        <Border.Effect>
+            CornerRadius="15"
+        -->
+        <!--<Border.Effect>
             <DropShadowEffect
                 BlurRadius="50"
                 Direction="-90"
                 ShadowDepth="5"
                 Color="Gray"
                 RenderingBias="Quality"/>
-        </Border.Effect>
+        </Border.Effect>-->
         <!-- start top  banner-->
         <StackPanel Orientation="Vertical"
                     Margin="20">
@@ -67,15 +69,16 @@
             <TextBlock Text="forgot password"
                        HorizontalAlignment="Right"/>
             <Button x:Name="btnLogin"
-                    Content="Login"
+                    Style="{StaticResource LoginButtonStyle}">
+                <!--Content="Login"
                     Foreground="White"
                     Background="black"
                     Margin="0,25"
                     Height="35"
-                    Width="250">
+                    Width="250"-->
                 
                 <!--add custom button style-->
-                <Button.Style>
+                <!--<Button.Style>
                     <Style TargetType="Button">
                         <Setter Property="Template">
                             <Setter.Value>
@@ -106,7 +109,7 @@
                         </Setter>
                         
                     </Style>
-                </Button.Style>
+                </Button.Style>-->
             </Button>
             <TextBlock Text="Not a Member?"
                        Margin="0,5"
