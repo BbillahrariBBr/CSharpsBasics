@@ -48,20 +48,23 @@
                     Text="User Name"
                           Style="{StaticResource DefaultTextBlock}"/>
                 <TextBox Grid.Row="1"
-                           Padding="0,5"
+                         Text="Bakibillah"
+                         Style="{StaticResource LoginTextBox}"/>
+                <!--Padding="0,5"
                            Width="255"
                            BorderThickness="0,0,0,1"
-                           HorizontalAlignment="Left"
-                           Text="Bakibillah"/>
+                           HorizontalAlignment="Left"-->
+                           
                 <TextBlock Grid.Row="2"
                            Text="Password"
-                           Style="{StaticResource DefaultTextBlock}">
+                           Style="{StaticResource DefaultTextBlock}"/>
                 <PasswordBox Grid.Row="3"
                              Password="bakibillah"
-                             Width="255"
+                             Style="{StaticResource PasswordTextBox}"/>
+                <!--Width="255"
                              Padding="0,5"
                              BorderThickness="0,0,0,1"
-                             HorizontalAlignment="Left"/>
+                             HorizontalAlignment="Left"-->
 
             </Grid>
 
